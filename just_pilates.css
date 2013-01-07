@@ -1,0 +1,121 @@
+BODY {
+
+	FONT-SIZE: 13px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: Arial, Helvetica, sans-serif
+
+}
+
+TD {
+
+	FONT-SIZE: 13px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: Arial, Helvetica, sans-serif
+
+}
+
+.body {
+	FONT-SIZE: 13px;
+	COLOR: #ffffff;
+	LINE-HEIGHT: 20px;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	padding-top: 2px;
+	padding-bottom: 5px;
+	text-align: center;
+
+}
+
+.menuSpacing {
+
+	PADDING-RIGHT: 21px; PADDING-LEFT: 21px; PADDING-BOTTOM: 10px
+
+}
+
+.contentSpacing {
+	PADDING-RIGHT: 0px;
+	BORDER-TOP: #5f3981 2px solid;
+	PADDING-LEFT: 0px;
+	BORDER-LEFT-COLOR: #5f3981;
+	PADDING-BOTTOM: 20px;
+	PADDING-TOP: 5px;
+	BORDER-BOTTOM: #5f3981 2px solid;
+	BORDER-RIGHT-STYLE: none;
+	BORDER-LEFT-STYLE: none;
+	BORDER-RIGHT-COLOR: #5f3981;
+	margin: auto;
+
+}
+
+A:link {
+
+	FONT-WEIGHT: bold; COLOR: #cbf5ff; TEXT-DECORATION: underline
+
+}
+
+A:visited {
+
+	FONT-WEIGHT: bold; COLOR: #cbf5ff; TEXT-DECORATION: underline
+
+}
+
+A:hover {
+
+	COLOR: #e2c3f4; TEXT-DECORATION: underline
+
+}
+
+.tableRule {
+
+	BORDER-TOP: #67458b 2px solid; PADDING-TOP: 10px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+
+}
+
+.dateTable {
+
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BORDER-LEFT-COLOR: #f1f1ef; PADDING-BOTTOM: 5px; BORDER-TOP-STYLE: none; BORDER-TOP-COLOR: #f1f1ef; PADDING-TOP: 5px; BORDER-BOTTOM: #7c58a5 2px solid; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-RIGHT-COLOR: #f1f1ef
+
+}
+
+A.pblink:link {
+
+	FONT-SIZE: 10px; COLOR: #bb94d2; TEXT-DECORATION: none
+
+}
+
+A.pblink:active {
+
+	FONT-SIZE: 10px; COLOR: #bb94d2; TEXT-DECORATION: none
+
+}
+
+A.pblink:visited {
+
+	FONT-SIZE: 10px; COLOR: #bb94d2; TEXT-DECORATION: none
+
+}
+
+A.pblink:hover {
+
+	FONT-SIZE: 10px; COLOR: #bb94d2; TEXT-DECORATION: none
+
+}
+
+.formField {
+
+	BORDER-RIGHT: #472564 1px solid; BORDER-TOP: #472564 1px solid; BORDER-LEFT: #472564 1px solid; BORDER-BOTTOM: #472564 1px solid
+
+}
+abbr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	margin: 0px;
+	padding-top: 5px;
+	padding-bottom: 20px;
+}
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #CCFFFF;
+	margin: 0px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	letter-spacing: 0.2em;
+}
